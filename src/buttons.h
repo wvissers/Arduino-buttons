@@ -15,7 +15,7 @@
 #define BUTTON_OPTION_DOUBLE    0x20  // React to double press.
 #define BUTTON_OPTION_REPEAT    0x40  // Repeat short press when holding.
 #define BUTTON_OPTION_IDLE_LOW  0x80  // Idle button state LOW instead of HIGH.
-#define DEFAULT_OPTIONS         BUTTON_OPTION_SHORT + BUTTON_OPTION_LONG + BUTTON_OPTION_DOUBLE
+#define DEFAULT_OPTIONS         BUTTON_OPTION_SHORT + BUTTON_OPTION_LONG + BUTTON_OPTION_LONGEST
 
 #define BUTTON_PRESS_SHORT      0x01  // Button short press/release.
 #define BUTTON_PRESS_LONG       0x02  // Button long pressed.
