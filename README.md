@@ -8,7 +8,7 @@ effectively.
 
 # Usage
 
-To use this library, choose 'Close or Download' -> 'Zipfile' and store the file on
+To use this library, choose 'Clone or Download' -> 'Zipfile' and store the file on
 your computer. In the Arduino IDE, choose the library option and select the Add .ZIP
 library option. After that, you should be able to view the examples in the example
 section of the Arduino IDE, under 'buttons'. 
